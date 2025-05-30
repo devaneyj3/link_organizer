@@ -66,6 +66,13 @@ export default function Home() {
 			description: "My Vercel projects",
 			icon: "�",
 		},
+		{
+			title: "Create Invoices",
+			url: "https://create-invoices-alpha.vercel.app/",
+			tag: "Pay",
+			description: "Create Invoices for AG-USA",
+			icon: "�",
+		},
 		// Add more links as needed
 	];
 
