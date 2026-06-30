@@ -80,6 +80,27 @@ export default function Home() {
 			description: "Collection of useful AI prompts and templates",
 			icon: "🧠",
 		},
+		{
+			title: "Keyboard shortcuts in Excel",
+			url: "https://brightpool.notion.site/fe947b16fe894c3e8a8a19a6b81aec2c?v=9b1d189283d54b6bba80882239ecbb1a",
+			tag: "Excel",
+			description: "Keyboard shortcuts in Excel",
+			icon: "🧠",
+		},
+		{
+			title: "Excel Functions",
+			url: "https://exceljet.net/functions",
+			tag: "Excel",
+			description: "Excel Functions",
+			icon: "🧠",
+		},
+		{
+			title: "Excel Formulas",
+			url: "https://exceljet.net/formulas",
+			tag: "Excel",
+			description: "Excel Formulas",
+			icon: "🧠",
+		},
 		// Add more links as needed
 	];
 
